@@ -1,4 +1,4 @@
 
 To run this app:
 
-* Rin 'python TonePredictor.py'
+* Run 'python TonePredictor.py'
